@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>330035024019-1to4oiuesu2dhspihdan0oodft5darku.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.330035024019-1to4oiuesu2dhspihdan0oodft5darku</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBPZAtoPtumh6ySVCtHuETTF56KloSJIX8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>330035024019</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.myvesu</string>
+	<key>PROJECT_ID</key>
+	<string>myvesuios</string>
+	<key>STORAGE_BUCKET</key>
+	<string>myvesuios.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:330035024019:ios:fcc4a34d2098b864c73d66</string>
+	<key>DATABASE_URL</key>
+	<string>https://myvesuios.firebaseio.com</string>
+</dict>
+</plist>
